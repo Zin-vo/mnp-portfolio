@@ -69,10 +69,10 @@ button{
     margin-top: 6%;
 }
 
-    button:hover{
-        background-color: black;
-        color: white;
-    }
+button:hover{
+    background-color: black;
+    color: white;
+}
 
 .pimg{
     height: 20vh;
